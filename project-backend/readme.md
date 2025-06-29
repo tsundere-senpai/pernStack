@@ -153,7 +153,7 @@ To use it:
 
 ## Future Improvements
 
-* Add JWT-based user authentication
+~~* Add JWT-based user authentication~~
 * Role-based access control (Admin, Editor)
 * Dockerize the backend
 * Deploy to cloud (Render, Azure, Railway, etc.)
